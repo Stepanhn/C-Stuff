@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\stepanh\source\repos\classwork_3\classwork_3\main.cpp(105): warning C4018: '<': signed/unsigned mismatch
+  c:\users\stepanh\source\repos\classwork_3\classwork_3\main.cpp(103): note: while compiling class template member function 'int PriorityQueue<int>::Min_idx(void) const'
+  c:\users\stepanh\source\repos\classwork_3\classwork_3\main.cpp(127): note: see reference to function template instantiation 'int PriorityQueue<int>::Min_idx(void) const' being compiled
+  c:\users\stepanh\source\repos\classwork_3\classwork_3\main.cpp(187): note: see reference to class template instantiation 'PriorityQueue<int>' being compiled
+c:\users\stepanh\source\repos\classwork_3\classwork_3\main.cpp(78): warning C4715: 'GetTimeOfDay': not all control paths return a value
+  Classwork_3.vcxproj -> C:\Users\stepanh\source\repos\Classwork_3\Debug\Classwork_3.exe

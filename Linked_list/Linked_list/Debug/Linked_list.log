@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\stepanh\source\repos\linked_list\linked_list\main.cpp(331): warning C4129: 'i': unrecognized character escape sequence
+c:\users\stepanh\source\repos\linked_list\linked_list\main.cpp(164): warning C4172: returning address of local variable or temporary: i
+  Linked_list.vcxproj -> C:\Users\stepanh\source\repos\Linked_list\Debug\Linked_list.exe
